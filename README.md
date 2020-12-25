@@ -1,2 +1,2 @@
 # drawing-board
-nomad coders 그림판
+Painting Board made with VanillaJS
